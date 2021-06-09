@@ -1,1 +1,3 @@
 hola
+
+Hicimos las modificaciones al código, resolvimos los errores, finalizamos las nuevas funcionalidades y el equipo está ansioso esperando que compartamos el código. Vamos a ver cómo compartir el código en nuestro repositorio local.
